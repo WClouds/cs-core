@@ -24,3 +24,6 @@
 - Rules of the compiler
 #### Semantics
 - What you want of the program
+
+## L6
+String Interning, string is immutable
